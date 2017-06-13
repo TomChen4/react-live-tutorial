@@ -1,27 +1,15 @@
 {
-  "name": "react-simple-boilerplate",
+  "name": "react-live-demo",
   "version": "1.0.0",
-  "description": "Simple and lightweight Boilerplate for ReactJS projects",
+  "description": "Live Demo for seminarion",
   "scripts": {
     "lint": "eslint src",
     "start": "node server.js"
   },
-  "repository": "https://github.com/noahlotzer/react-simple-boilerplate.git",
-  "keywords": [
-    "react",
-    "reactjs",
-    "boilerplate",
-    "reload",
-    "live",
-    "edit",
-    "webpack"
-  ],
-  "author": "Noah-Jerome Lotzer <noah.lotzer@gmail.com>",
+  "repository": "https://github.com/TomChen4/react-live-demo.git",
+  "author": "Tom Chen <tomchen4@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/noahlotzer/react-simple-boilerplate/issues"
-  },
-  "homepage": "https://github.com/noahlotzer/react-simple-boilerplate",
+  "homepage": "https://github.com/noahlotzer/react-live-demo",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
