@@ -1,0 +1,8 @@
+1) להוסיף Data
+2) יצירת כותרת עם H1 ומספר הTODOים (שעוד לא ממומש)
+3) ליצור form עם Input יחיד וclassים: form-control col-md12
+4) ליצור Todo Component ריק
+5) ליצור TodoList שישתמש בTodo. נתחיל בMap שייצור מערך של <Todo>, אותו חזיר בתוך DIV שלו הclass list-group
+6) Todo יחיד, שיהיה תגית a עם הclass: list-group-item, בלחיצה נרצה Remove (לא ממומש), ובתוכו todo.text ממומש עם props
+7) לייצר TodoApp, להעביר אליו את הdata, ולהחזיר div שבתוכו title (להוסיף פרופס של count ולשנות את קומפוננטה של TodoTitle כך שתציג Count). בתוכו גם Form וTodoList עם todos.
+
