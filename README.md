@@ -8,7 +8,7 @@ A minimal and light dev environment for ReactJS.
 Clone the boilerplate and create your own git repo.
 
 ```
-git clone git@github.com:nolotz/react-simple-boilerplate.git
+git clone git@github.com:TomChen4/react-live-demo.git
 ```
 
 Install the dependencies and start the server.
